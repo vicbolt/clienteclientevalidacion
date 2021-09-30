@@ -1,4 +1,4 @@
 <template>
     
-    <div> HOLA NUXT </div>
+    <div> HOLA NUXTTTT </div>
 </template>

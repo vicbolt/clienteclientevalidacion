@@ -5,7 +5,7 @@
         <div class="container-message" v-if="userId && paramId">
             <div class="message" v-for="message in messages" :key="message._id">
                 <p v-if="message.userOwner == userId"> MINE </p>
-                <p v-else>SUYO</p>
+                <p v-else>SUYO22</p>
                 <p> {{ message.text }}</p>
             </div>
 
