@@ -107,7 +107,7 @@ export default {
 
             console.log({ data })
 
-            } catch (err) {
+            } catch (err){
                 alert(err)
             }
         },
